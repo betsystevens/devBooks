@@ -1,0 +1,12 @@
+
+Demonstration of event handling 
+  with vanilla JavaScript
+
+User moves pointer over thumbnail images
+  to display an enlarged, preview image
+
+HTML displays thumbnails of book covers
+CSS uses flexbox to layout thumbnails
+
+Use mouseenter, mousemove & mouseleave events
+  to display enlarged image of a thumbnail
