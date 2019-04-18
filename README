@@ -10,3 +10,10 @@ CSS uses flexbox to layout thumbnails
 
 Use mouseenter, mousemove & mouseleave events
   to display enlarged image of a thumbnail
+
+Problems: severe jittery display, back and forth on
+  mouseenter and mouseleave when preview image extends
+  past page bottom.
+  Fixed - by adding padding to bottom that extends height
+    of preview
+  Next - explore other solutions, gain more understanding 
